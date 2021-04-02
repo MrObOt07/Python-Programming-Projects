@@ -11,5 +11,4 @@ def main():
           os.rename(my_sourse, my_dest)
           i += 1
 
-if __name__ == '__main__':
-    main()
+main()
